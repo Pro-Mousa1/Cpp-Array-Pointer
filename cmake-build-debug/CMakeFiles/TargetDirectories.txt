@@ -1,0 +1,3 @@
+/home/mousa/CLionProjects/SCO204Assignment/cmake-build-debug/CMakeFiles/SCO204Assignment.dir
+/home/mousa/CLionProjects/SCO204Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mousa/CLionProjects/SCO204Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
